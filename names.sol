@@ -73,7 +73,7 @@ hairLengths = ["Short", "Medium-length", "Long", "Bald", "Buzzed"]
 
 hairTypes = ["Straight", "Curly"]
 
-facialHairStyles = ["Goattee", "Beard", "Moustache"]
+facialHairTypes = ["Goattee", "Beard", "Moustache"]
 
 facialHairLengths = ["Short", "Full", "Stubble"]
 
