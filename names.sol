@@ -4,6 +4,8 @@ coreRaces = ["Dwarf", "Elf", "Human", "Half-elf", "Orc", "Half-orc",
 
 dwarfSubraces = ["Mountain", "Underground"]
 
+elfSubraces = ["Tall", "Black", "Forest", "Moon"]
+
 coreClasses = ["Bard", "Cleric", "Druid", "Fighter", "Monk", "Paladin", 
                "Ranger", "Rogue", "Sorcerer", "Warlock", "Mage"]
 
