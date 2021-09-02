@@ -31,7 +31,7 @@ mageSubclasses = ["Specialist", "Wild"]
 
 bodyTypes = ["Ectomorph", "Mesomorph", "Endomorph"]
 
-bodyWeights = ["Very large", "Large", "Average-sized", "Small"]
+bodyWeights = ["Very large", "Large", "Medium-sized", "Small"]
 
 bodyFitnesses = ["Very fit", "Fit", None]
 
