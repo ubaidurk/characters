@@ -2,12 +2,22 @@ coreRaces = ["Dwarf", "Elf", "Human", "Half-elf", "Orc", "Half-orc",
              "Lizard", "Halfling", "Troll", "Gnome", "Giant", "Minotaur", 
              "Cyclop", "Pixie", "Goblin", "Cat"]
 
+commonCoreRaces = ["Dwarf", "Elf", "Human", "Half-elf", "Orc", "Half-orc", 
+                   "Halfling"]
+
+specialCoreRaces = ["Lizard", "Troll", "Gnome", "Giant", "Minotaur", 
+                 "Cyclop", "Pixie", "Goblin", "Cat"]
+
 dwarfSubraces = ["Mountain", "Underground"]
 
 elfSubraces = ["Tall", "Black", "Forest", "Moon"]
 
 coreClasses = ["Bard", "Cleric", "Druid", "Fighter", "Monk", "Paladin", 
                "Ranger", "Rogue", "Sorcerer", "Warlock", "Mage"]
+
+commonCoreClasses = ["Cleric", "Fighter", "Ranger", "Rogue", "Mage"]
+
+specialCoreClasses = ["Bard",  "Druid", "Monk", "Paladin", "Sorcerer", "Warlock"]
 
 bardSubclasses = ["Jester", "Skald"]
 
