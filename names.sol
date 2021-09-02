@@ -75,7 +75,7 @@ hairTypes = ["Straight", "Curly"]
 
 facialHairStyles = ["Goattee", "Beard", "Moustache"]
 
-facialHairLengths = ["Short", "Long", "Stubble"]
+facialHairLengths = ["Short", "Full", "Stubble"]
 
 browThicknesses = ["Thick", "Thin", None]
 
