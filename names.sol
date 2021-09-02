@@ -15,10 +15,6 @@ elfSubraces = ["Tall", "Black", "Forest", "Moon"]
 coreClasses = ["Bard", "Cleric", "Druid", "Fighter", "Monk", "Paladin", 
                "Ranger", "Rogue", "Sorcerer", "Warlock", "Mage"]
 
-commonCoreClasses = ["Cleric", "Fighter", "Ranger", "Rogue", "Mage"]
-
-specialCoreClasses = ["Bard",  "Druid", "Monk", "Paladin", "Sorcerer", "Warlock"]
-
 bardSubclasses = ["Jester", "Skald"]
 
 druidSubclasses = ["Totemic", "Shapeshifter"]
