@@ -1,7 +1,7 @@
 uint256 constant COMMON_RACE_CHANCE = 80;
 uint256 constant SPECIAL_RACE_CHANCE = 20;
 
-uint256 constant SUBRACE_ELF_CHANCE = 10;
+uint256 constant SUBRACE_ELF_CHANCE = 20;
 uint256 constant SUBRACE_DWARF_CHANCE = 20;
 
 uint256 constant COMMON_CLASS_CHANCE = 60;
@@ -12,8 +12,8 @@ uint256 constant SUBCLASS_DRUID_CHANCE = 40;
 uint256 constant SUBCLASS_FIGHTER_CHANCE = 30;
 uint256 constant SUBCLASS_PALADIN_CHANCE = 30;
 uint256 constant SUBCLASS_RANGER_CHANCE = 20;
-uint256 constant SUBCLASS_ROGUE_CHANCE = 10;
-uint256 constant SUBCLASS_MAGE_CHANCE = 5;
+uint256 constant SUBCLASS_ROGUE_CHANCE = 20;
+uint256 constant SUBCLASS_MAGE_CHANCE = 20;
 
 uint256 constant FACEPAINT_CHANCE = 5;
 uint256 constant SCAR_CHANCE = 15;
