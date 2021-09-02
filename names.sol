@@ -2,11 +2,8 @@ coreRaces = ["Dwarf", "Elf", "Human", "Half-elf", "Orc", "Half-orc",
              "Lizard", "Halfling", "Troll", "Gnome", "Giant", "Minotaur", 
              "Cyclop", "Pixie", "Goblin", "Cat"]
 
-commonCoreRaces = ["Dwarf", "Elf", "Human", "Half-elf", "Orc", "Half-orc", 
-                   "Halfling"]
-
 specialCoreRaces = ["Lizard", "Troll", "Gnome", "Giant", "Minotaur", 
-                 "Cyclop", "Pixie", "Goblin", "Cat"]
+                    "Cyclop", "Pixie", "Goblin", "Cat"]
 
 dwarfSubraces = ["Mountain", "Underground"]
 
