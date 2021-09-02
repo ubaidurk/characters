@@ -66,8 +66,8 @@ chinSizes = ["Large", "Small", None]
 
 chinShapes = ["Square", "Narrow", "Round", "Protruding", "Long", "Receding"]
 
-hairColors = ["Dark brown", "Brown", "Black", "Dark black", "White", "Grew", 
-              "Salt & peppers"]
+hairColors = ["Dark brown", "Brown", "Dark black", "Black", "White", "Grey", 
+              "Salt & peppers", "Ginger", "Dark blonde", "Blonde"]
 
 hairLengths = ["Short", "Medium-length", "Long", "Bald", "Buzzed"]
 
