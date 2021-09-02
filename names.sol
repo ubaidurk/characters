@@ -1,30 +1,4 @@
-coreRaces = ["Dwarf", "Elf", "Human", "Half-elf", "Orc", "Half-orc", 
-             "Lizard", "Halfling", "Troll", "Gnome", "Giant", "Minotaur", 
-             "Cyclop", "Pixie", "Goblin", "Cat"]
-
-specialCoreRaces = ["Lizard", "Troll", "Gnome", "Giant", "Minotaur", 
-                    "Cyclop", "Pixie", "Goblin", "Cat"]
-
-dwarfSubraces = ["Mountain", "Underground"]
-
-elfSubraces = ["Tall", "Black", "Forest", "Moon"]
-
-coreClasses = ["Bard", "Cleric", "Druid", "Fighter", "Monk", "Paladin", 
-               "Ranger", "Rogue", "Sorcerer", "Warlock", "Mage"]
-
-bardSubclasses = ["Jester", "Skald"]
-
-druidSubclasses = ["Totemic", "Shapeshifter"]
-
-fighterSubclasses = ["Barbarian", "Defender", "Weapon Master"]
-
-paladinSubclasses = ["Cavalier", "Inquisitor", "Undead Hunter", "Blackguard"]
-
-rangerSubclasses = ["Archer", "Stalker", "Beast Master"]
-
-rogueSubclasses = ["Assassin", "Bounty Hunter", "Swashbuckler", "Shadowdancer"]
-
-mageSubclasses = ["Specialist", "Wild"]
+birthSex = ["Male", "Female"]
 
 bodyTypes = ["Ectomorph", "Mesomorph", "Endomorph"]
 
