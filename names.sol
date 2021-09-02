@@ -71,7 +71,7 @@ hairColors = ["Dark brown", "Brown", "Black", "Dark black", "White", "Grew",
 
 hairLengths = ["Short", "Medium-length", "Long", "Bald", "Buzzed"]
 
-hairTypes = ["Straight", "Curly", "Afro"]
+hairTypes = ["Straight", "Curly"]
 
 facialHairStyles = ["Goattee", "Beard", "Moustache"]
 
