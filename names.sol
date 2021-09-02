@@ -69,33 +69,13 @@ chinShapes = ["Square", "Narrow", "Round", "Protruding", "Long", "Receding"]
 hairColors = ["Dark brown", "Brown", "Black", "Dark black", "White", "Grew", 
               "Salt & peppers"]
 
-hairStyles = ["Bowl cut", "Caesar cut", "Bob cut", "Pixie cut", "Tonsure", 
-              "Undercut", "Hi-top fade", "Mohawk", "Pageboy", "Fauxhawk", 
-              "Bouffant", "Bunned", "Bunches", "Chignon", "Chonmage", 
-              "Combover", "Conk", "Crown braid", "Curtained", "Double-bunned", 
-              "Ducktail", "Short taper fade", "Fallera", "Feathered", "Mop-top", 
-              "Slicked-back", "Afro", "Beehive", "Bangs", "Fluffy", "Blowout", 
-              "Brush cut", "Devilock", "Fontange", "French braid", "French twist", 
-              "Fringe bangs", "Frosted tips", "Full crown", "Half crown", "Half updo", 
-              "Harvard clip", "Hime cut", "Induction cut", "Jheri curl", "Layered", 
-              "Liberty-spiked", "Lined-up", "Lobbed", "Marcel-waved", "Mod cut", 
-              "Mullet", "Odango", "Oseledets", "Payot", "Perm", "Pigtails", 
-              "Pompadour", "Ponyhawked", "Ponytailed", "Queued", "Wedged", 
-              "Quiffed", "Rattailed", "Ringelets", "Shag-cut", "Shaped-up", 
-              "Surfer", "Waves", "Weaved", "Winged", "Braided", "Cornrowed", 
-              "Dreadlocked", "Finger-waved", "Fishtailed", None]
+hairLengths = ["Short", "Medium-length", "Long", "Bald", "Buzzed"]
 
-facialHairStyles = ["Handlebar moustache", "Imperial moustache", "Dali moustache",
-                    "Chevron moustache", "Pyramid moustache", "Lampshade moustache",
-                    "Horseshoe moustache", "Pencil moustache", "Toothbrush moustache",
-                    "Walrus moustache", "Hungarian moustache", "Zapata moustache",
-                    "Goat patch beard", "Goatee beard", "Balba beard", "Anchor beard",
-                    "Soul patch beard", "Van dyke beard", "Chin curtain beard",
-                    "Chinstrap beard", "Five o’clock shadow beard",
-                    "Muttonchopped beard", "Hulihee beard", "Circle beard",
-                    "Neck beard", "Shenandoah beard", "Sideburns beard",
-                    "Sidewhiskers beard", "Garibaldi beard", "Verdi beard",
-                    "Forkbeard", "Ducktail beard", None]
+hairTypes = ["Straight", "Curly", "Afro"]
+
+facialHairStyles = ["Goattee", "Beard", "Moustache"]
+
+facialHairLengths = ["Short", "Long", "Stubble"]
 
 browThicknesses = ["Thick", "Thin", None]
 
